@@ -12,6 +12,7 @@ import java.util.Set;
 public class TestClass {
 
 	public static void main(String[] args) {
+		System.out.println("Hello");
 		// TODO Auto-generated method stub
 		/*
 		List<String> list = new ArrayList<String>();
